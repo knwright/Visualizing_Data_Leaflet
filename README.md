@@ -5,7 +5,7 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ## Visualize the Data
 
-![Earthquake Map with Tectonic Plate Boundaries](images/earthquake_map)
+![Earthquake Map with Tectonic Plate Boundaries](images/earthquake_map.png)
 
 1. **Obtain the data sets**
 
